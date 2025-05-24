@@ -95,11 +95,11 @@ Or use the Jupyter notebook directly.
 - Google Trends features slightly improved early trend detection
 - Integrated model reduced RMSE by ~10% compared to ARIMA-only baseline
 ---
-## 📄 License  
-This project is MIT licensed.
+## 📄 License    
+This project is MIT licensed.  
 ---
-## 🤝 Contributing  
-Pull requests and issues are welcome!
+## 🤝 Contributing    
+Pull requests and issues are welcome!  
 ---
 ## 🔗 Author
 Dr. Poulami Nandi  
