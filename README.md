@@ -102,7 +102,9 @@ This project is MIT licensed.
 Pull requests and issues are welcome!  
 ---
 ## 🔗 Author
-Dr. Poulami Nandi  
+**Dr. Poulami Nandi**  
 📧 poulami.nandi91@gmail.com  
-📘 Google Scholar  
-🐙 GitHub  
+Postdoctoral Researcher • Data Scientist • Quant Researcher  
+🔗 [LinkedIn](https://www.linkedin.com/in/poulami-nandi/)  
+🐙 [Github](https://github.com/Poulami-Nandi)  
+📘 [Google Scholar](https://scholar.google.co.in/citations?user=bOYJeAYAAAAJ&hl=en)  
