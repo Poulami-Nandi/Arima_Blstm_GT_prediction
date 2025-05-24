@@ -91,20 +91,18 @@ python -m src.model_utils
 Or use the Jupyter notebook directly.
 ---
 ## 📈 Results
-BiLSTM outperformed ARIMA on short-horizon prediction
-
-Google Trends features slightly improved early trend detection
-
-Integrated model reduced RMSE by ~10% compared to ARIMA-only baseline
+- BiLSTM outperformed ARIMA on short-horizon prediction
+- Google Trends features slightly improved early trend detection
+- Integrated model reduced RMSE by ~10% compared to ARIMA-only baseline
 ---
-## 📄 License
+## 📄 License  
 This project is MIT licensed.
 ---
-## 🤝 Contributing
+## 🤝 Contributing  
 Pull requests and issues are welcome!
 ---
 ## 🔗 Author
-Dr. Poulami Nandi
-📧 poulami.nandi91@gmail.com
-📘 Google Scholar
-🐙 GitHub
+Dr. Poulami Nandi  
+📧 poulami.nandi91@gmail.com  
+📘 Google Scholar  
+🐙 GitHub  
