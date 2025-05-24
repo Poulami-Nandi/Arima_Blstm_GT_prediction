@@ -5,8 +5,8 @@ This project explores the combined use of traditional statistical models (ARIMA)
 ---
 
 ## 📁 Project Structure
-
-Stock_Trend_Prediction_ARIMA_BLSTM_GT/
+```bash
+Arima_Blstm_GT_prediction/
 ├── data/
 │ └── Apple_stock_GT_20200101_20250420.csv
 ├── notebooks/
@@ -19,7 +19,7 @@ Stock_Trend_Prediction_ARIMA_BLSTM_GT/
 │ └── approach.md
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
